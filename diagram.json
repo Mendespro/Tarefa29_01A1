@@ -5,48 +5,48 @@
     {
       "type": "board-pi-pico-w",
       "id": "pico1",
-      "top": 203,
-      "left": 117.35,
+      "top": 60,
+      "left": 211.35,
       "attrs": { "builder": "pico-sdk" }
     },
     {
       "type": "wokwi-led",
       "id": "led1",
-      "top": 356.25,
-      "left": -84,
+      "top": 213.25,
+      "left": 10,
       "attrs": { "color": "limegreen" }
     },
-    { "type": "wokwi-led", "id": "led2", "top": 279.45, "left": -84, "attrs": { "color": "red" } },
+    { "type": "wokwi-led", "id": "led2", "top": 136.45, "left": 10, "attrs": { "color": "red" } },
     {
       "type": "wokwi-led",
       "id": "led3",
-      "top": 317.85,
-      "left": -84,
+      "top": 174.85,
+      "left": 10,
       "attrs": { "color": "yellow", "flip": "" }
     },
     {
       "type": "wokwi-resistor",
       "id": "r1",
-      "top": 354.5,
-      "left": -31.6,
+      "top": 211.5,
+      "left": 62.4,
       "rotate": 180,
-      "attrs": { "value": "1000" }
+      "attrs": { "value": "330" }
     },
     {
       "type": "wokwi-resistor",
       "id": "r2",
-      "top": 316.1,
-      "left": -31.6,
+      "top": 173.1,
+      "left": 62.4,
       "rotate": 180,
-      "attrs": { "value": "1000" }
+      "attrs": { "value": "330" }
     },
     {
       "type": "wokwi-resistor",
       "id": "r3",
-      "top": 392.9,
-      "left": -31.6,
+      "top": 249.9,
+      "left": 62.4,
       "rotate": 180,
-      "attrs": { "value": "1000" }
+      "attrs": { "value": "330" }
     }
   ],
   "connections": [
